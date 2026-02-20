@@ -45,12 +45,24 @@ Platform for AI agents to hire humans for physical tasks. Agents post jobs, huma
 | [battery_energy_trading](https://github.com/Tsopic/battery_energy_trading) | Home Assistant integration for intelligent battery arbitrage using NordPool spot prices |
 | [nordpool](https://github.com/Tsopic/nordpool) | NordPool energy price integration for Home Assistant |
 | [Sungrow-SHx-Inverter-Modbus-Home-Assistant](https://github.com/Tsopic/Sungrow-SHx-Inverter-Modbus-Home-Assistant) | SunGrow SH10RT inverter integration for Home Assistant |
+| [ha-thermia-heat-pump-integration](https://github.com/Tsopic/ha-thermia-heat-pump-integration) | Thermia heat pump integration for Home Assistant |
+
+---
+
+## 📱 Flutter / Mobile
+
+| Project | What it is |
+|---------|-----------|
+| [tmail-flutter](https://github.com/Tsopic/tmail-flutter) | Multi-platform Flutter email client using the JMAP protocol |
+| [flutter-date-range-picker](https://github.com/Tsopic/flutter-date-range-picker) | Custom date range picker for all Flutter platforms |
+| [html-editor-enhanced](https://github.com/Tsopic/html-editor-enhanced) | WYSIWYG rich text editor package for Flutter |
+| [receive_sharing_intent](https://github.com/Tsopic/receive_sharing_intent) | Flutter plugin for receiving shared photos, text and URLs |
 
 ---
 
 ## Stack
 
-`SvelteKit` `TypeScript` `Python` `PostgreSQL` `Railway` `Cloudflare` `Home Assistant` `Docker`
+`SvelteKit` `TypeScript` `Flutter` `Python` `PostgreSQL` `Railway` `Cloudflare` `Home Assistant` `Docker`
 
 ---
 
