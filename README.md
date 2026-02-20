@@ -2,19 +2,31 @@
 
 Builder. Estonian. Full-stack developer working across web, AI agents, and home automation.
 
+📍 Estonia &nbsp;·&nbsp; 🌐 [alakonnuralli.ee](https://alakonnuralli.ee) &nbsp;·&nbsp; 🤖 [PalkaAI](https://github.com/PalkaAI)
+
 ---
 
 ## 🏁 Alakonnu Ralli — [alakonnuralli.ee](https://alakonnuralli.ee)
 
-Digital platform for the Estonian rally community built around the traditional **RoadBook / tulip diagram** navigation format.
+Digital platform for the Estonian rally community built around the traditional **RoadBook / tulip diagram** navigation format used in stage rallies.
 
 - **Stack:** SvelteKit · PostgreSQL 17 · Railway · Cloudflare
-- Roadbook management for organisers and navigators
+- Digital roadbook management for organisers and navigators
 - Production + staging environments, auto-deploy from main
 
 ---
 
-## 🤖 AI Agents & Automation
+## 🤖 PalkaAI — [github.com/PalkaAI](https://github.com/PalkaAI)
+
+Platform for AI agents to hire humans for physical tasks. Agents post jobs, humans get paid.
+
+- AI-native task delegation — agents act as employers
+- Physical world integration for autonomous AI systems
+- Built for the era where agents need hands
+
+---
+
+## 🧠 AI Agents & Automation
 
 | Project | What it is |
 |---------|-----------|
@@ -22,6 +34,7 @@ Digital platform for the Estonian rally community built around the traditional *
 | [antfarm](https://github.com/Tsopic/antfarm) | Build and coordinate multi-agent teams inside OpenClaw |
 | [marketingskills](https://github.com/Tsopic/marketingskills) | Marketing skills for Claude Code — CRO, SEO, copywriting, growth |
 | [claude-hud](https://github.com/Tsopic/claude-hud) | Claude Code plugin showing context, tools, agents and progress in real-time |
+| [claude-squad](https://github.com/Tsopic/claude-squad) | Manage multiple AI terminal agents (Claude Code, Aider, Codex) simultaneously |
 
 ---
 
@@ -62,7 +75,6 @@ Digital platform for the Estonian rally community built around the traditional *
 
 | Project | What it is |
 |---------|-----------|
-| [claude-squad](https://github.com/Tsopic/claude-squad) | Manage multiple AI terminal agents (Claude Code, Aider, Codex) |
 | [winboat](https://github.com/Tsopic/winboat) | Run Windows apps on Linux with seamless integration |
 | [Dorion](https://github.com/Tsopic/Dorion) | Tiny alternative Discord client — smaller, faster, themes + plugins |
 | [shadPS4](https://github.com/Tsopic/shadPS4) | PlayStation 4 emulator for Windows, Linux and macOS |
@@ -79,7 +91,7 @@ Digital platform for the Estonian rally community built around the traditional *
 
 ---
 
-## Tech
+## Stack
 
 `SvelteKit` `TypeScript` `Flutter` `Dart` `Python` `Rust` `PostgreSQL` `Railway` `Cloudflare` `Home Assistant` `Docker`
 
